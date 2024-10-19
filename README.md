@@ -1,10 +1,12 @@
 ## Hi there 👋
 I'm Sam Kemp a programmer and web developer trying to get noticed.  
-  
-Welcome to my GitHub page!
 
-### ⚡ Fun fact:
-I have never broken a bone
+### 🔭 I’m currently working on:
+Day to day I work as a software tester and test engineer.  
+Outside of this I also enjoy making websites, coding various projects and building Warhammer.
+
+### 🌱 I’m currently learning:
+I am very interested in the recent advancements in AI technology and spend some time experimenting with AI tools.
 
 <!--
 **SamKemp/SamKemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
