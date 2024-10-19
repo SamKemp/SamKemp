@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm Sam Kemp a programmer and web developer trying to get noticed.  
+  
+Welcome to my GitHub page!
+
+### ⚡ Fun fact:
+I have never broken a bone
 
 <!--
 **SamKemp/SamKemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
