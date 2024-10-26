@@ -4,9 +4,11 @@ I'm Sam Kemp a programmer and web developer trying to get noticed.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-samkemp.vercel.app/api?username=SamKemp&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-samkemp.vercel.app/api/top-langs/?username=SamKemp&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
 </a>
+
+*Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ### 🔭 I’m currently working on:
 Day to day I work as a software tester and test engineer.  
